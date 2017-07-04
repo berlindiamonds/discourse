@@ -1,0 +1,4 @@
+es:
+  site_settings:
+    awesomeness_enabled: "No es genial este plugin?"
+    awesomeness_max_volume: "Cuál es el máximo volumen?"

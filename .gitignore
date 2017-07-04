@@ -46,6 +46,9 @@ bootsnap-load-path-cache
 
 # Ignore plugins except for the bundled ones.
 /plugins/*
+!/plugins/basic-plugin/
+!/plugins/hello/
+!/plugins/discourse-plugin-outlet-locations
 !/plugins/emoji/
 !/plugins/lazyYT/
 !/plugins/poll/
